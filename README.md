@@ -1,5 +1,5 @@
 # Vegetarian Food Alternatives API
-Using Express and Mongodb, this API was built to handle GET, POST, PATCH, and DELETE requests to Plantiful's front-end.
+This is the API for the Vegetarian Food Alternatives Database.
 
 # Important Links
 [Client Repository](https://github.com/deadwoman/veg-alt-client)
