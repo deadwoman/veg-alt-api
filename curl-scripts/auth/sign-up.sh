@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#! API="https://shrouded-oasis-07530.herokuapp.com/"
 API="http://localhost:4741"
 URL_PATH="/sign-up"
 
