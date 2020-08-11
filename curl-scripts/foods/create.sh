@@ -6,11 +6,11 @@ curl "http://localhost:4741/foods" \
   --header "Authorization: Bearer ${TOKEN}" \
   --header "Content-Type: application/json" \
   --data '{
-    "plant": {
+    "food": {
       "name": "'"${NAME}"'",
       "altOption": "'"${ALTOPTION}"'",
       "location": "'"${LOCATION}"'",
-      "soil": "'"${SOIL}"'"
+      "veg": "'"${VEG}"'"
     }
   }'
 

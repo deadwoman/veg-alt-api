@@ -13,7 +13,7 @@ const foodSchema = new mongoose.Schema({
     type: String,
     required: true
   },
-  soil: {
+  veg: {
     type: String,
     required: true
   },

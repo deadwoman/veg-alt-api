@@ -10,7 +10,7 @@ curl "http://localhost:4741/foods/${ID}" \
       "name": "'"${NAME}"'",
       "altOption": "'"${ALTOPTION}"'",
       "location": "'"${LOCATION}"'",
-      "soil": "'"${SOIL}"'"
+      "veg": "'"${VEG}"'"
     }
   }'
 

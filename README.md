@@ -1,4 +1,4 @@
-# Vegan & Vegetarian Alternatives API
+# Vegetarian Alternatives API
 A database that keeps track of vegan/vegetarian food alternatives. The user will be able to keep track of what the substitute food is, whether it's vegan or vegetarian, and where to buy it.
 
 # Important Links
