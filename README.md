@@ -5,7 +5,7 @@ This is the API for the Vegetarian Food Alternatives Database.
 [Client Repository](https://github.com/deadwoman/veg-alt-client)
 [Deployed Client](https://deadwoman.github.io/veg-alt-client/)
 [API Repository](https://github.com/deadwoman/veg-atl-api)
-[Deployed API](hhttps://shrouded-oasis-07530.herokuapp.com/)
+[Deployed API](https://shrouded-oasis-07530.herokuapp.com/)
 
 # Planning Story
 Day 1: Wrap Up Planning, Begin API & Client Setup
